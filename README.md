@@ -1,5 +1,38 @@
 # 💫 About Me:
-in navin yadav currently working on SAAS for VAPT assessment and im interested in networking and cybersecurity filled my hobbies are photography and drone flying etc 
+## 👋 Hi, I'm Navin Yadav
+
+🚀 Currently working on a **SaaS platform for VAPT (Vulnerability Assessment and Penetration Testing)**
+
+🔐 Passionate about **Cybersecurity & Networking**
+💡 Always exploring how systems work, break, and can be secured
+
+### 🧠 Interests
+
+* Network Security & Infrastructure
+* Ethical Hacking & VAPT
+* System Configuration & Troubleshooting
+
+### 🛠️ What I'm Working On
+
+* Building scalable security solutions
+* Learning and implementing real-world cybersecurity practices
+* Strengthening my skills in networking concepts
+
+### 🎯 Hobbies
+
+* 📸 Photography
+* 🚁 Drone Flying
+* ⚙️ Exploring tech and hardware
+
+### 🌱 Currently Learning
+
+* Advanced Cybersecurity techniques
+* Network configuration & security tools
+* Practical VAPT methodologies
+
+---
+
+⭐ *Always curious. Always building. Always securing.*
 
 
 ## 🌐 Socials:
