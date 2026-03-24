@@ -7,25 +7,21 @@
 💡 Always exploring how systems work, break, and can be secured
 
 ### 🧠 Interests
-
 * Network Security & Infrastructure
 * Ethical Hacking & VAPT
 * System Configuration & Troubleshooting
 
 ### 🛠️ What I'm Working On
-
 * Building scalable security solutions
 * Learning and implementing real-world cybersecurity practices
 * Strengthening my skills in networking concepts
 
 ### 🎯 Hobbies
-
 * 📸 Photography
 * 🚁 Drone Flying
 * ⚙️ Exploring tech and hardware
 
 ### 🌱 Currently Learning
-
 * Advanced Cybersecurity techniques
 * Network configuration & security tools
 * Practical VAPT methodologies
@@ -33,7 +29,6 @@
 ---
 
 ⭐ *Always curious. Always building. Always securing.*
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navinyadav6059) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navin-kumar-yadav-538605288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navinyadav6059@gmail.com) 
